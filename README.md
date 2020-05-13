@@ -2,5 +2,9 @@ API com PHP, extremamente basico utilizando o xampp. O bd foi utilizando phpmyad
 
 
 
-Destinos da URL --> http://localhost/API/rest/music/mostrar
+Destino da URL   
+
+        http://localhost/API/rest/music/mostrar
+
+
 
