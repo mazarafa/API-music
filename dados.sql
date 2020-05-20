@@ -12,6 +12,6 @@ CREATE TABLE `music` (
 -- inserindo os dados no phpmyadmin ---
 
 INSERT INTO `music`(`id`, `Genero`, `artista`) VALUES (1,'techno','Vintage Culture'),
-														        (2,'House','Alok'),
+								(2,'House','Alok'),
                                                                 (3,'Rock','Ramones');
 														
